@@ -3,6 +3,8 @@ layout: post
 title: "As músicas do Minecraft são tão…"
 ---
 
+![banner_post](https://github.com/rowtigo/blog.tardesaovento.com.br/blob/main/images/posts/01.png?raw=true)
+
 Sabe, esses dias eu estava navegando no Spotify, quando quase que por sorte eu me deparei com um playlist de trilhas sonoras do Minecraft. E sei lá, era tão aleatório que né, eu cliquei pra ouvir!
 Inicialmente eu creditava que as músicas que estavam lá iam ser simples, ou talvez só esquisitas, por que né, é só as músicas que tocam num jogo que eu não jogo há uns bons anos, então, eu tava lá só por curiosidade mesmo. Mas pra minha sorte não foi isso que ocorreu, eu dei o play, e parece que eu me transportei pra outro dimensão…
 
@@ -43,3 +45,8 @@ Dedicado ao Rodrigo que um dia fui,
 
 Com carinho:
 Rodrigo.
+
+
+
+🎧 Ouça no Spotify: https://open.spotify.com/episode/1OkUF35oetUhucl5CVtzm0?si=npmMDzE2S1ahEhc8OvSuKQ
+📺 Assista no Youtube: 
