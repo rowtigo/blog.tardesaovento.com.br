@@ -45,8 +45,3 @@ Dedicado ao Rodrigo que um dia fui,
 
 Com carinho:
 Rodrigo.
-
-
-
-🎧 Ouça no Spotify: https://open.spotify.com/episode/1OkUF35oetUhucl5CVtzm0?si=npmMDzE2S1ahEhc8OvSuKQ
-📺 Assista no Youtube: 
